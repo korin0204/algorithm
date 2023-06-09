@@ -1,0 +1,1050 @@
+10000_0
+0
+Duration: 2[ms]
+1
+Duration: 1[ms]
+2
+Duration: 1[ms]
+3
+Duration: 1[ms]
+4
+Duration: 0[ms]
+5
+Duration: 1[ms]
+6
+Duration: 1[ms]
+7
+Duration: 1[ms]
+8
+Duration: 0[ms]
+9
+Duration: 0[ms]
+10000_0_almost
+0
+Duration: 1[ms]
+1
+Duration: 1[ms]
+2
+Duration: 0[ms]
+3
+Duration: 0[ms]
+4
+Duration: 1[ms]
+5
+Duration: 1[ms]
+6
+Duration: 0[ms]
+7
+Duration: 0[ms]
+8
+Duration: 1[ms]
+9
+Duration: 0[ms]
+10000_1
+0
+Duration: 1[ms]
+1
+Duration: 1[ms]
+2
+Duration: 1[ms]
+3
+Duration: 1[ms]
+4
+Duration: 1[ms]
+5
+Duration: 1[ms]
+6
+Duration: 1[ms]
+7
+Duration: 1[ms]
+8
+Duration: 1[ms]
+9
+Duration: 1[ms]
+10000_1_almost
+0
+Duration: 1[ms]
+1
+Duration: 1[ms]
+2
+Duration: 1[ms]
+3
+Duration: 0[ms]
+4
+Duration: 0[ms]
+5
+Duration: 0[ms]
+6
+Duration: 1[ms]
+7
+Duration: 1[ms]
+8
+Duration: 0[ms]
+9
+Duration: 1[ms]
+10000_2
+0
+Duration: 1[ms]
+1
+Duration: 1[ms]
+2
+Duration: 1[ms]
+3
+Duration: 1[ms]
+4
+Duration: 0[ms]
+5
+Duration: 1[ms]
+6
+Duration: 1[ms]
+7
+Duration: 1[ms]
+8
+Duration: 1[ms]
+9
+Duration: 1[ms]
+10000_2_almost
+0
+Duration: 0[ms]
+1
+Duration: 0[ms]
+2
+Duration: 0[ms]
+3
+Duration: 0[ms]
+4
+Duration: 0[ms]
+5
+Duration: 1[ms]
+6
+Duration: 1[ms]
+7
+Duration: 1[ms]
+8
+Duration: 0[ms]
+9
+Duration: 0[ms]
+10000_3
+0
+Duration: 1[ms]
+1
+Duration: 1[ms]
+2
+Duration: 1[ms]
+3
+Duration: 0[ms]
+4
+Duration: 1[ms]
+5
+Duration: 1[ms]
+6
+Duration: 1[ms]
+7
+Duration: 0[ms]
+8
+Duration: 0[ms]
+9
+Duration: 1[ms]
+10000_3_almost
+0
+Duration: 1[ms]
+1
+Duration: 0[ms]
+2
+Duration: 1[ms]
+3
+Duration: 0[ms]
+4
+Duration: 2[ms]
+5
+Duration: 1[ms]
+6
+Duration: 1[ms]
+7
+Duration: 0[ms]
+8
+Duration: 0[ms]
+9
+Duration: 1[ms]
+10000_4
+0
+Duration: 1[ms]
+1
+Duration: 0[ms]
+2
+Duration: 0[ms]
+3
+Duration: 0[ms]
+4
+Duration: 0[ms]
+5
+Duration: 0[ms]
+6
+Duration: 0[ms]
+7
+Duration: 0[ms]
+8
+Duration: 0[ms]
+9
+Duration: 1[ms]
+10000_4_almost
+0
+Duration: 0[ms]
+1
+Duration: 1[ms]
+2
+Duration: 0[ms]
+3
+Duration: 1[ms]
+4
+Duration: 1[ms]
+5
+Duration: 1[ms]
+6
+Duration: 0[ms]
+7
+Duration: 0[ms]
+8
+Duration: 1[ms]
+9
+Duration: 0[ms]
+50000_0
+0
+Duration: 5[ms]
+1
+Duration: 5[ms]
+2
+Duration: 4[ms]
+3
+Duration: 5[ms]
+4
+Duration: 4[ms]
+5
+Duration: 5[ms]
+6
+Duration: 4[ms]
+7
+Duration: 4[ms]
+8
+Duration: 6[ms]
+9
+Duration: 4[ms]
+50000_0_almost
+0
+Duration: 2[ms]
+1
+Duration: 2[ms]
+2
+Duration: 3[ms]
+3
+Duration: 3[ms]
+4
+Duration: 2[ms]
+5
+Duration: 3[ms]
+6
+Duration: 2[ms]
+7
+Duration: 3[ms]
+8
+Duration: 3[ms]
+9
+Duration: 3[ms]
+50000_1
+0
+Duration: 4[ms]
+1
+Duration: 5[ms]
+2
+Duration: 6[ms]
+3
+Duration: 5[ms]
+4
+Duration: 5[ms]
+5
+Duration: 6[ms]
+6
+Duration: 5[ms]
+7
+Duration: 5[ms]
+8
+Duration: 4[ms]
+9
+Duration: 5[ms]
+50000_1_almost
+0
+Duration: 3[ms]
+1
+Duration: 2[ms]
+2
+Duration: 2[ms]
+3
+Duration: 3[ms]
+4
+Duration: 5[ms]
+5
+Duration: 3[ms]
+6
+Duration: 3[ms]
+7
+Duration: 3[ms]
+8
+Duration: 3[ms]
+9
+Duration: 3[ms]
+50000_2
+0
+Duration: 4[ms]
+1
+Duration: 4[ms]
+2
+Duration: 5[ms]
+3
+Duration: 4[ms]
+4
+Duration: 5[ms]
+5
+Duration: 4[ms]
+6
+Duration: 4[ms]
+7
+Duration: 4[ms]
+8
+Duration: 4[ms]
+9
+Duration: 5[ms]
+50000_2_almost
+0
+Duration: 2[ms]
+1
+Duration: 3[ms]
+2
+Duration: 3[ms]
+3
+Duration: 2[ms]
+4
+Duration: 2[ms]
+5
+Duration: 2[ms]
+6
+Duration: 3[ms]
+7
+Duration: 2[ms]
+8
+Duration: 3[ms]
+9
+Duration: 3[ms]
+50000_3
+0
+Duration: 5[ms]
+1
+Duration: 5[ms]
+2
+Duration: 4[ms]
+3
+Duration: 4[ms]
+4
+Duration: 4[ms]
+5
+Duration: 5[ms]
+6
+Duration: 5[ms]
+7
+Duration: 5[ms]
+8
+Duration: 4[ms]
+9
+Duration: 4[ms]
+50000_3_almost
+0
+Duration: 2[ms]
+1
+Duration: 2[ms]
+2
+Duration: 3[ms]
+3
+Duration: 3[ms]
+4
+Duration: 2[ms]
+5
+Duration: 2[ms]
+6
+Duration: 2[ms]
+7
+Duration: 2[ms]
+8
+Duration: 3[ms]
+9
+Duration: 2[ms]
+50000_4
+0
+Duration: 4[ms]
+1
+Duration: 5[ms]
+2
+Duration: 4[ms]
+3
+Duration: 4[ms]
+4
+Duration: 4[ms]
+5
+Duration: 5[ms]
+6
+Duration: 4[ms]
+7
+Duration: 4[ms]
+8
+Duration: 5[ms]
+9
+Duration: 4[ms]
+50000_4_almost
+0
+Duration: 3[ms]
+1
+Duration: 2[ms]
+2
+Duration: 2[ms]
+3
+Duration: 3[ms]
+4
+Duration: 3[ms]
+5
+Duration: 2[ms]
+6
+Duration: 2[ms]
+7
+Duration: 2[ms]
+8
+Duration: 2[ms]
+9
+Duration: 3[ms]
+100000_0
+0
+Duration: 9[ms]
+1
+Duration: 10[ms]
+2
+Duration: 9[ms]
+3
+Duration: 9[ms]
+4
+Duration: 9[ms]
+5
+Duration: 10[ms]
+6
+Duration: 10[ms]
+7
+Duration: 10[ms]
+8
+Duration: 9[ms]
+9
+Duration: 10[ms]
+100000_0_almost
+0
+Duration: 5[ms]
+1
+Duration: 5[ms]
+2
+Duration: 5[ms]
+3
+Duration: 6[ms]
+4
+Duration: 5[ms]
+5
+Duration: 5[ms]
+6
+Duration: 5[ms]
+7
+Duration: 5[ms]
+8
+Duration: 5[ms]
+9
+Duration: 5[ms]
+100000_1
+0
+Duration: 9[ms]
+1
+Duration: 10[ms]
+2
+Duration: 9[ms]
+3
+Duration: 9[ms]
+4
+Duration: 9[ms]
+5
+Duration: 10[ms]
+6
+Duration: 10[ms]
+7
+Duration: 10[ms]
+8
+Duration: 10[ms]
+9
+Duration: 9[ms]
+100000_1_almost
+0
+Duration: 5[ms]
+1
+Duration: 6[ms]
+2
+Duration: 5[ms]
+3
+Duration: 5[ms]
+4
+Duration: 5[ms]
+5
+Duration: 5[ms]
+6
+Duration: 5[ms]
+7
+Duration: 5[ms]
+8
+Duration: 5[ms]
+9
+Duration: 5[ms]
+100000_2
+0
+Duration: 8[ms]
+1
+Duration: 9[ms]
+2
+Duration: 9[ms]
+3
+Duration: 10[ms]
+4
+Duration: 9[ms]
+5
+Duration: 9[ms]
+6
+Duration: 10[ms]
+7
+Duration: 9[ms]
+8
+Duration: 9[ms]
+9
+Duration: 10[ms]
+100000_2_almost
+0
+Duration: 5[ms]
+1
+Duration: 5[ms]
+2
+Duration: 5[ms]
+3
+Duration: 5[ms]
+4
+Duration: 5[ms]
+5
+Duration: 5[ms]
+6
+Duration: 5[ms]
+7
+Duration: 5[ms]
+8
+Duration: 5[ms]
+9
+Duration: 5[ms]
+100000_3
+0
+Duration: 9[ms]
+1
+Duration: 11[ms]
+2
+Duration: 9[ms]
+3
+Duration: 9[ms]
+4
+Duration: 9[ms]
+5
+Duration: 9[ms]
+6
+Duration: 9[ms]
+7
+Duration: 9[ms]
+8
+Duration: 10[ms]
+9
+Duration: 9[ms]
+100000_3_almost
+0
+Duration: 5[ms]
+1
+Duration: 6[ms]
+2
+Duration: 6[ms]
+3
+Duration: 5[ms]
+4
+Duration: 5[ms]
+5
+Duration: 5[ms]
+6
+Duration: 5[ms]
+7
+Duration: 6[ms]
+8
+Duration: 5[ms]
+9
+Duration: 5[ms]
+100000_4
+0
+Duration: 9[ms]
+1
+Duration: 9[ms]
+2
+Duration: 10[ms]
+3
+Duration: 10[ms]
+4
+Duration: 10[ms]
+5
+Duration: 9[ms]
+6
+Duration: 9[ms]
+7
+Duration: 9[ms]
+8
+Duration: 9[ms]
+9
+Duration: 10[ms]
+100000_4_almost
+0
+Duration: 5[ms]
+1
+Duration: 5[ms]
+2
+Duration: 5[ms]
+3
+Duration: 6[ms]
+4
+Duration: 5[ms]
+5
+Duration: 5[ms]
+6
+Duration: 5[ms]
+7
+Duration: 5[ms]
+8
+Duration: 5[ms]
+9
+Duration: 5[ms]
+500000_0
+0
+Duration: 59[ms]
+1
+Duration: 52[ms]
+2
+Duration: 55[ms]
+3
+Duration: 52[ms]
+4
+Duration: 51[ms]
+5
+Duration: 52[ms]
+6
+Duration: 53[ms]
+7
+Duration: 52[ms]
+8
+Duration: 52[ms]
+9
+Duration: 51[ms]
+500000_0_almost
+0
+Duration: 30[ms]
+1
+Duration: 29[ms]
+2
+Duration: 29[ms]
+3
+Duration: 28[ms]
+4
+Duration: 29[ms]
+5
+Duration: 29[ms]
+6
+Duration: 28[ms]
+7
+Duration: 30[ms]
+8
+Duration: 29[ms]
+9
+Duration: 29[ms]
+500000_1
+0
+Duration: 53[ms]
+1
+Duration: 52[ms]
+2
+Duration: 53[ms]
+3
+Duration: 52[ms]
+4
+Duration: 52[ms]
+5
+Duration: 52[ms]
+6
+Duration: 53[ms]
+7
+Duration: 53[ms]
+8
+Duration: 51[ms]
+9
+Duration: 53[ms]
+500000_1_almost
+0
+Duration: 29[ms]
+1
+Duration: 29[ms]
+2
+Duration: 28[ms]
+3
+Duration: 29[ms]
+4
+Duration: 29[ms]
+5
+Duration: 28[ms]
+6
+Duration: 28[ms]
+7
+Duration: 29[ms]
+8
+Duration: 29[ms]
+9
+Duration: 28[ms]
+500000_2
+0
+Duration: 51[ms]
+1
+Duration: 51[ms]
+2
+Duration: 51[ms]
+3
+Duration: 51[ms]
+4
+Duration: 51[ms]
+5
+Duration: 51[ms]
+6
+Duration: 51[ms]
+7
+Duration: 51[ms]
+8
+Duration: 51[ms]
+9
+Duration: 51[ms]
+500000_2_almost
+0
+Duration: 29[ms]
+1
+Duration: 29[ms]
+2
+Duration: 29[ms]
+3
+Duration: 29[ms]
+4
+Duration: 28[ms]
+5
+Duration: 29[ms]
+6
+Duration: 29[ms]
+7
+Duration: 29[ms]
+8
+Duration: 29[ms]
+9
+Duration: 30[ms]
+500000_3
+0
+Duration: 52[ms]
+1
+Duration: 52[ms]
+2
+Duration: 52[ms]
+3
+Duration: 52[ms]
+4
+Duration: 52[ms]
+5
+Duration: 52[ms]
+6
+Duration: 53[ms]
+7
+Duration: 52[ms]
+8
+Duration: 53[ms]
+9
+Duration: 52[ms]
+500000_3_almost
+0
+Duration: 30[ms]
+1
+Duration: 28[ms]
+2
+Duration: 29[ms]
+3
+Duration: 28[ms]
+4
+Duration: 28[ms]
+5
+Duration: 29[ms]
+6
+Duration: 29[ms]
+7
+Duration: 29[ms]
+8
+Duration: 29[ms]
+9
+Duration: 29[ms]
+500000_4
+0
+Duration: 52[ms]
+1
+Duration: 52[ms]
+2
+Duration: 52[ms]
+3
+Duration: 52[ms]
+4
+Duration: 52[ms]
+5
+Duration: 51[ms]
+6
+Duration: 52[ms]
+7
+Duration: 51[ms]
+8
+Duration: 52[ms]
+9
+Duration: 52[ms]
+500000_4_almost
+0
+Duration: 29[ms]
+1
+Duration: 30[ms]
+2
+Duration: 28[ms]
+3
+Duration: 28[ms]
+4
+Duration: 29[ms]
+5
+Duration: 29[ms]
+6
+Duration: 28[ms]
+7
+Duration: 28[ms]
+8
+Duration: 28[ms]
+9
+Duration: 28[ms]
+1000000_0
+0
+Duration: 108[ms]
+1
+Duration: 108[ms]
+2
+Duration: 108[ms]
+3
+Duration: 108[ms]
+4
+Duration: 109[ms]
+5
+Duration: 109[ms]
+6
+Duration: 109[ms]
+7
+Duration: 108[ms]
+8
+Duration: 109[ms]
+9
+Duration: 109[ms]
+1000000_0_almost
+0
+Duration: 60[ms]
+1
+Duration: 60[ms]
+2
+Duration: 60[ms]
+3
+Duration: 60[ms]
+4
+Duration: 59[ms]
+5
+Duration: 61[ms]
+6
+Duration: 60[ms]
+7
+Duration: 60[ms]
+8
+Duration: 60[ms]
+9
+Duration: 59[ms]
+1000000_1
+0
+Duration: 108[ms]
+1
+Duration: 108[ms]
+2
+Duration: 108[ms]
+3
+Duration: 108[ms]
+4
+Duration: 107[ms]
+5
+Duration: 108[ms]
+6
+Duration: 108[ms]
+7
+Duration: 109[ms]
+8
+Duration: 108[ms]
+9
+Duration: 108[ms]
+1000000_1_almost
+0
+Duration: 60[ms]
+1
+Duration: 60[ms]
+2
+Duration: 60[ms]
+3
+Duration: 61[ms]
+4
+Duration: 60[ms]
+5
+Duration: 61[ms]
+6
+Duration: 60[ms]
+7
+Duration: 64[ms]
+8
+Duration: 60[ms]
+9
+Duration: 60[ms]
+1000000_2
+0
+Duration: 110[ms]
+1
+Duration: 109[ms]
+2
+Duration: 108[ms]
+3
+Duration: 109[ms]
+4
+Duration: 108[ms]
+5
+Duration: 108[ms]
+6
+Duration: 110[ms]
+7
+Duration: 107[ms]
+8
+Duration: 109[ms]
+9
+Duration: 109[ms]
+1000000_2_almost
+0
+Duration: 60[ms]
+1
+Duration: 60[ms]
+2
+Duration: 61[ms]
+3
+Duration: 61[ms]
+4
+Duration: 61[ms]
+5
+Duration: 61[ms]
+6
+Duration: 60[ms]
+7
+Duration: 62[ms]
+8
+Duration: 61[ms]
+9
+Duration: 60[ms]
+1000000_3
+0
+Duration: 106[ms]
+1
+Duration: 107[ms]
+2
+Duration: 107[ms]
+3
+Duration: 107[ms]
+4
+Duration: 107[ms]
+5
+Duration: 107[ms]
+6
+Duration: 107[ms]
+7
+Duration: 107[ms]
+8
+Duration: 107[ms]
+9
+Duration: 107[ms]
+1000000_3_almost
+0
+Duration: 59[ms]
+1
+Duration: 61[ms]
+2
+Duration: 60[ms]
+3
+Duration: 60[ms]
+4
+Duration: 60[ms]
+5
+Duration: 60[ms]
+6
+Duration: 60[ms]
+7
+Duration: 60[ms]
+8
+Duration: 60[ms]
+9
+Duration: 60[ms]
+1000000_4
+0
+Duration: 107[ms]
+1
+Duration: 108[ms]
+2
+Duration: 108[ms]
+3
+Duration: 108[ms]
+4
+Duration: 107[ms]
+5
+Duration: 107[ms]
+6
+Duration: 107[ms]
+7
+Duration: 108[ms]
+8
+Duration: 108[ms]
+9
+Duration: 109[ms]
+1000000_4_almost
+0
+Duration: 61[ms]
+1
+Duration: 60[ms]
+2
+Duration: 59[ms]
+3
+Duration: 61[ms]
+4
+Duration: 59[ms]
+5
+Duration: 59[ms]
+6
+Duration: 60[ms]
+7
+Duration: 60[ms]
+8
+Duration: 60[ms]
+9
+Duration: 60[ms]
