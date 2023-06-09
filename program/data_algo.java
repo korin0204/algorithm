@@ -6,6 +6,7 @@ class Numberread extends Thread {
         public static void main(String arg[]) {
                 int sortTarget;
                 String SortTarget = "";
+                int csvCount = 0;
                 for (sortTarget = 0; sortTarget < 3; sortTarget++) {
                         int dataAmount = 0;
                         for (int dataAmountNum = 0; dataAmountNum < 5; dataAmountNum++) {
@@ -138,8 +139,54 @@ class Numberread extends Thread {
                                                         } catch (IOException e) {
                                                                 e.printStackTrace();
                                                         }
-                                                        //csvへの出力
-                                                        //データを３次元配列で３種類
+                                                        // csvへの出力
+                                                        // データを３次元配列で３種類
+                                                        try {
+                                                                FileWriter fw = new FileWriter(
+                                                                                "sort_result/result_"
+                                                                                                + SortTarget + ".csv",
+                                                                                true);
+                                                                PrintWriter pw = new PrintWriter(
+                                                                                new BufferedWriter(fw));
+                                                                if (loop == 0) {
+                                                                        pw.print(dataAmount + "_" + otherData
+                                                                                        + dataType);
+                                                                } else {
+                                                                        pw.print("");
+                                                                }
+                                                                if (csvCount == 0) {
+                                                                        pw.print(",");
+                                                                        pw.print("loop");
+                                                                        pw.print(",");
+                                                                        pw.print("Duration[ms]");
+                                                                        pw.print(",");
+                                                                        pw.print("mean[ms]");
+                                                                        pw.print(",");
+                                                                        pw.print("variance[ms^2]");
+                                                                        pw.println();
+                                                                        pw.print("");
+                                                                        csvCount += 1;
+                                                                }
+                                                                pw.print(",");
+                                                                pw.print(loop);
+                                                                pw.print(",");
+                                                                pw.print(endTime - startTime);
+                                                                if (loop != 9) {
+                                                                        pw.print(",");
+                                                                        pw.print("");
+                                                                        pw.print(",");
+                                                                        pw.print("");
+                                                                } else {
+                                                                        pw.print(",");
+                                                                        pw.print(mean);
+                                                                        pw.print(",");
+                                                                        pw.print(variance);
+                                                                }
+                                                                pw.println();
+                                                                pw.close();
+                                                        } catch (IOException e) {
+                                                                e.printStackTrace();
+                                                        }
                                                 }
                                         }
 
