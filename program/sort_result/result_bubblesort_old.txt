@@ -1,0 +1,1050 @@
+10000_0
+0
+Duration: 74[ms]
+1
+Duration: 169[ms]
+2
+Duration: 52[ms]
+3
+Duration: 53[ms]
+4
+Duration: 52[ms]
+5
+Duration: 52[ms]
+6
+Duration: 52[ms]
+7
+Duration: 53[ms]
+8
+Duration: 53[ms]
+9
+Duration: 52[ms]
+10000_0_almost
+0
+Duration: 40[ms]
+1
+Duration: 40[ms]
+2
+Duration: 40[ms]
+3
+Duration: 42[ms]
+4
+Duration: 40[ms]
+5
+Duration: 40[ms]
+6
+Duration: 40[ms]
+7
+Duration: 39[ms]
+8
+Duration: 40[ms]
+9
+Duration: 40[ms]
+10000_1
+0
+Duration: 168[ms]
+1
+Duration: 51[ms]
+2
+Duration: 53[ms]
+3
+Duration: 53[ms]
+4
+Duration: 51[ms]
+5
+Duration: 52[ms]
+6
+Duration: 59[ms]
+7
+Duration: 51[ms]
+8
+Duration: 51[ms]
+9
+Duration: 51[ms]
+10000_1_almost
+0
+Duration: 42[ms]
+1
+Duration: 42[ms]
+2
+Duration: 44[ms]
+3
+Duration: 58[ms]
+4
+Duration: 43[ms]
+5
+Duration: 43[ms]
+6
+Duration: 48[ms]
+7
+Duration: 43[ms]
+8
+Duration: 43[ms]
+9
+Duration: 46[ms]
+10000_2
+0
+Duration: 54[ms]
+1
+Duration: 54[ms]
+2
+Duration: 56[ms]
+3
+Duration: 53[ms]
+4
+Duration: 71[ms]
+5
+Duration: 53[ms]
+6
+Duration: 52[ms]
+7
+Duration: 52[ms]
+8
+Duration: 54[ms]
+9
+Duration: 53[ms]
+10000_2_almost
+0
+Duration: 42[ms]
+1
+Duration: 43[ms]
+2
+Duration: 42[ms]
+3
+Duration: 43[ms]
+4
+Duration: 50[ms]
+5
+Duration: 46[ms]
+6
+Duration: 43[ms]
+7
+Duration: 46[ms]
+8
+Duration: 43[ms]
+9
+Duration: 43[ms]
+10000_3
+0
+Duration: 69[ms]
+1
+Duration: 57[ms]
+2
+Duration: 54[ms]
+3
+Duration: 53[ms]
+4
+Duration: 54[ms]
+5
+Duration: 53[ms]
+6
+Duration: 57[ms]
+7
+Duration: 56[ms]
+8
+Duration: 54[ms]
+9
+Duration: 59[ms]
+10000_3_almost
+0
+Duration: 44[ms]
+1
+Duration: 44[ms]
+2
+Duration: 43[ms]
+3
+Duration: 45[ms]
+4
+Duration: 45[ms]
+5
+Duration: 79[ms]
+6
+Duration: 43[ms]
+7
+Duration: 42[ms]
+8
+Duration: 42[ms]
+9
+Duration: 43[ms]
+10000_4
+0
+Duration: 55[ms]
+1
+Duration: 53[ms]
+2
+Duration: 55[ms]
+3
+Duration: 69[ms]
+4
+Duration: 54[ms]
+5
+Duration: 56[ms]
+6
+Duration: 52[ms]
+7
+Duration: 58[ms]
+8
+Duration: 59[ms]
+9
+Duration: 53[ms]
+10000_4_almost
+0
+Duration: 43[ms]
+1
+Duration: 42[ms]
+2
+Duration: 43[ms]
+3
+Duration: 42[ms]
+4
+Duration: 42[ms]
+5
+Duration: 44[ms]
+6
+Duration: 43[ms]
+7
+Duration: 59[ms]
+8
+Duration: 46[ms]
+9
+Duration: 44[ms]
+50000_0
+0
+Duration: 3427[ms]
+1
+Duration: 3221[ms]
+2
+Duration: 3347[ms]
+3
+Duration: 3260[ms]
+4
+Duration: 3280[ms]
+5
+Duration: 3284[ms]
+6
+Duration: 3228[ms]
+7
+Duration: 3226[ms]
+8
+Duration: 3232[ms]
+9
+Duration: 3390[ms]
+50000_0_almost
+0
+Duration: 1127[ms]
+1
+Duration: 1138[ms]
+2
+Duration: 1177[ms]
+3
+Duration: 1169[ms]
+4
+Duration: 1128[ms]
+5
+Duration: 1165[ms]
+6
+Duration: 1124[ms]
+7
+Duration: 1145[ms]
+8
+Duration: 1147[ms]
+9
+Duration: 1129[ms]
+50000_1
+0
+Duration: 3326[ms]
+1
+Duration: 3283[ms]
+2
+Duration: 3295[ms]
+3
+Duration: 3256[ms]
+4
+Duration: 3333[ms]
+5
+Duration: 3271[ms]
+6
+Duration: 3269[ms]
+7
+Duration: 3282[ms]
+8
+Duration: 3276[ms]
+9
+Duration: 3275[ms]
+50000_1_almost
+0
+Duration: 1164[ms]
+1
+Duration: 1155[ms]
+2
+Duration: 1143[ms]
+3
+Duration: 1314[ms]
+4
+Duration: 1141[ms]
+5
+Duration: 1196[ms]
+6
+Duration: 1166[ms]
+7
+Duration: 1119[ms]
+8
+Duration: 1083[ms]
+9
+Duration: 1154[ms]
+50000_2
+0
+Duration: 3344[ms]
+1
+Duration: 3296[ms]
+2
+Duration: 3343[ms]
+3
+Duration: 3268[ms]
+4
+Duration: 3342[ms]
+5
+Duration: 3277[ms]
+6
+Duration: 3269[ms]
+7
+Duration: 3403[ms]
+8
+Duration: 3305[ms]
+9
+Duration: 3335[ms]
+50000_2_almost
+0
+Duration: 1104[ms]
+1
+Duration: 1134[ms]
+2
+Duration: 1142[ms]
+3
+Duration: 1077[ms]
+4
+Duration: 1109[ms]
+5
+Duration: 1149[ms]
+6
+Duration: 1204[ms]
+7
+Duration: 1130[ms]
+8
+Duration: 1183[ms]
+9
+Duration: 1157[ms]
+50000_3
+0
+Duration: 3340[ms]
+1
+Duration: 3368[ms]
+2
+Duration: 3321[ms]
+3
+Duration: 3337[ms]
+4
+Duration: 3377[ms]
+5
+Duration: 3359[ms]
+6
+Duration: 3271[ms]
+7
+Duration: 3334[ms]
+8
+Duration: 3245[ms]
+9
+Duration: 3291[ms]
+50000_3_almost
+0
+Duration: 1172[ms]
+1
+Duration: 1203[ms]
+2
+Duration: 1118[ms]
+3
+Duration: 1123[ms]
+4
+Duration: 1145[ms]
+5
+Duration: 1132[ms]
+6
+Duration: 1147[ms]
+7
+Duration: 1135[ms]
+8
+Duration: 1123[ms]
+9
+Duration: 1139[ms]
+50000_4
+0
+Duration: 3272[ms]
+1
+Duration: 3331[ms]
+2
+Duration: 3274[ms]
+3
+Duration: 3319[ms]
+4
+Duration: 3353[ms]
+5
+Duration: 3266[ms]
+6
+Duration: 3256[ms]
+7
+Duration: 3256[ms]
+8
+Duration: 3347[ms]
+9
+Duration: 3311[ms]
+50000_4_almost
+0
+Duration: 1187[ms]
+1
+Duration: 1143[ms]
+2
+Duration: 1146[ms]
+3
+Duration: 1109[ms]
+4
+Duration: 1114[ms]
+5
+Duration: 1127[ms]
+6
+Duration: 1124[ms]
+7
+Duration: 1144[ms]
+8
+Duration: 1124[ms]
+9
+Duration: 1106[ms]
+100000_0
+0
+Duration: 14256[ms]
+1
+Duration: 14137[ms]
+2
+Duration: 14115[ms]
+3
+Duration: 14110[ms]
+4
+Duration: 14151[ms]
+5
+Duration: 14088[ms]
+6
+Duration: 14182[ms]
+7
+Duration: 14228[ms]
+8
+Duration: 14227[ms]
+9
+Duration: 14152[ms]
+100000_0_almost
+0
+Duration: 4629[ms]
+1
+Duration: 4643[ms]
+2
+Duration: 4667[ms]
+3
+Duration: 4559[ms]
+4
+Duration: 4745[ms]
+5
+Duration: 4555[ms]
+6
+Duration: 4662[ms]
+7
+Duration: 4759[ms]
+8
+Duration: 4737[ms]
+9
+Duration: 4645[ms]
+100000_1
+0
+Duration: 14383[ms]
+1
+Duration: 14250[ms]
+2
+Duration: 14198[ms]
+3
+Duration: 14225[ms]
+4
+Duration: 14206[ms]
+5
+Duration: 14211[ms]
+6
+Duration: 14280[ms]
+7
+Duration: 14210[ms]
+8
+Duration: 14101[ms]
+9
+Duration: 14347[ms]
+100000_1_almost
+0
+Duration: 4721[ms]
+1
+Duration: 4709[ms]
+2
+Duration: 4621[ms]
+3
+Duration: 4764[ms]
+4
+Duration: 4697[ms]
+5
+Duration: 4669[ms]
+6
+Duration: 4751[ms]
+7
+Duration: 4695[ms]
+8
+Duration: 4664[ms]
+9
+Duration: 4660[ms]
+100000_2
+0
+Duration: 14075[ms]
+1
+Duration: 14141[ms]
+2
+Duration: 14109[ms]
+3
+Duration: 14126[ms]
+4
+Duration: 14176[ms]
+5
+Duration: 14179[ms]
+6
+Duration: 14156[ms]
+7
+Duration: 14125[ms]
+8
+Duration: 14069[ms]
+9
+Duration: 14067[ms]
+100000_2_almost
+0
+Duration: 4706[ms]
+1
+Duration: 4690[ms]
+2
+Duration: 4788[ms]
+3
+Duration: 4700[ms]
+4
+Duration: 4670[ms]
+5
+Duration: 4794[ms]
+6
+Duration: 4838[ms]
+7
+Duration: 4714[ms]
+8
+Duration: 4698[ms]
+9
+Duration: 4698[ms]
+100000_3
+0
+Duration: 14211[ms]
+1
+Duration: 14242[ms]
+2
+Duration: 14205[ms]
+3
+Duration: 14283[ms]
+4
+Duration: 14150[ms]
+5
+Duration: 14400[ms]
+6
+Duration: 14225[ms]
+7
+Duration: 14298[ms]
+8
+Duration: 14297[ms]
+9
+Duration: 14211[ms]
+100000_3_almost
+0
+Duration: 4634[ms]
+1
+Duration: 4645[ms]
+2
+Duration: 4751[ms]
+3
+Duration: 4646[ms]
+4
+Duration: 4650[ms]
+5
+Duration: 4686[ms]
+6
+Duration: 4701[ms]
+7
+Duration: 4727[ms]
+8
+Duration: 4814[ms]
+9
+Duration: 4581[ms]
+100000_4
+0
+Duration: 14310[ms]
+1
+Duration: 14210[ms]
+2
+Duration: 14056[ms]
+3
+Duration: 14163[ms]
+4
+Duration: 14305[ms]
+5
+Duration: 14179[ms]
+6
+Duration: 14217[ms]
+7
+Duration: 14277[ms]
+8
+Duration: 14189[ms]
+9
+Duration: 14368[ms]
+100000_4_almost
+0
+Duration: 4677[ms]
+1
+Duration: 4713[ms]
+2
+Duration: 4638[ms]
+3
+Duration: 4721[ms]
+4
+Duration: 4654[ms]
+5
+Duration: 4659[ms]
+6
+Duration: 4701[ms]
+7
+Duration: 4769[ms]
+8
+Duration: 4634[ms]
+9
+Duration: 4675[ms]
+500000_0
+0
+Duration: 401204[ms]
+1
+Duration: 403112[ms]
+2
+Duration: 409673[ms]
+3
+Duration: 409705[ms]
+4
+Duration: 410990[ms]
+5
+Duration: 410736[ms]
+6
+Duration: 410486[ms]
+7
+Duration: 410307[ms]
+8
+Duration: 410237[ms]
+9
+Duration: 410656[ms]
+500000_0_almost
+0
+Duration: 121727[ms]
+1
+Duration: 118270[ms]
+2
+Duration: 117304[ms]
+3
+Duration: 117362[ms]
+4
+Duration: 117362[ms]
+5
+Duration: 117469[ms]
+6
+Duration: 117560[ms]
+7
+Duration: 118135[ms]
+8
+Duration: 117430[ms]
+9
+Duration: 117262[ms]
+500000_1
+0
+Duration: 394948[ms]
+1
+Duration: 394360[ms]
+2
+Duration: 394659[ms]
+3
+Duration: 394403[ms]
+4
+Duration: 394645[ms]
+5
+Duration: 394495[ms]
+6
+Duration: 393515[ms]
+7
+Duration: 394650[ms]
+8
+Duration: 394197[ms]
+9
+Duration: 394269[ms]
+500000_1_almost
+0
+Duration: 117815[ms]
+1
+Duration: 118096[ms]
+2
+Duration: 118212[ms]
+3
+Duration: 117775[ms]
+4
+Duration: 117754[ms]
+5
+Duration: 118065[ms]
+6
+Duration: 117927[ms]
+7
+Duration: 118126[ms]
+8
+Duration: 118493[ms]
+9
+Duration: 118312[ms]
+500000_2
+0
+Duration: 395915[ms]
+1
+Duration: 395430[ms]
+2
+Duration: 395644[ms]
+3
+Duration: 395369[ms]
+4
+Duration: 396517[ms]
+5
+Duration: 395542[ms]
+6
+Duration: 395436[ms]
+7
+Duration: 394562[ms]
+8
+Duration: 395397[ms]
+9
+Duration: 395013[ms]
+500000_2_almost
+0
+Duration: 118120[ms]
+1
+Duration: 118029[ms]
+2
+Duration: 118738[ms]
+3
+Duration: 118084[ms]
+4
+Duration: 117504[ms]
+5
+Duration: 118505[ms]
+6
+Duration: 118215[ms]
+7
+Duration: 117919[ms]
+8
+Duration: 118144[ms]
+9
+Duration: 118031[ms]
+500000_3
+0
+Duration: 395548[ms]
+1
+Duration: 395534[ms]
+2
+Duration: 395384[ms]
+3
+Duration: 395466[ms]
+4
+Duration: 395226[ms]
+5
+Duration: 395027[ms]
+6
+Duration: 394916[ms]
+7
+Duration: 395988[ms]
+8
+Duration: 395023[ms]
+9
+Duration: 395633[ms]
+500000_3_almost
+0
+Duration: 117697[ms]
+1
+Duration: 118051[ms]
+2
+Duration: 117898[ms]
+3
+Duration: 117918[ms]
+4
+Duration: 117728[ms]
+5
+Duration: 118029[ms]
+6
+Duration: 117784[ms]
+7
+Duration: 118143[ms]
+8
+Duration: 117913[ms]
+9
+Duration: 117937[ms]
+500000_4
+0
+Duration: 394389[ms]
+1
+Duration: 395148[ms]
+2
+Duration: 394955[ms]
+3
+Duration: 394951[ms]
+4
+Duration: 395044[ms]
+5
+Duration: 394955[ms]
+6
+Duration: 394961[ms]
+7
+Duration: 394987[ms]
+8
+Duration: 394623[ms]
+9
+Duration: 394493[ms]
+500000_4_almost
+0
+Duration: 117856[ms]
+1
+Duration: 117863[ms]
+2
+Duration: 117564[ms]
+3
+Duration: 117942[ms]
+4
+Duration: 117910[ms]
+5
+Duration: 117851[ms]
+6
+Duration: 117964[ms]
+7
+Duration: 117732[ms]
+8
+Duration: 118027[ms]
+9
+Duration: 117790[ms]
+1000000_0
+0
+Duration: 1552154[ms]
+1
+Duration: 1553831[ms]
+2
+Duration: 1558445[ms]
+3
+Duration: 1552818[ms]
+4
+Duration: 1569780[ms]
+5
+Duration: 1570402[ms]
+6
+Duration: 1601517[ms]
+7
+Duration: 1574904[ms]
+8
+Duration: 1615900[ms]
+9
+Duration: 1611705[ms]
+1000000_0_almost
+0
+Duration: 497952[ms]
+1
+Duration: 505251[ms]
+2
+Duration: 507073[ms]
+3
+Duration: 499177[ms]
+4
+Duration: 487557[ms]
+5
+Duration: 485489[ms]
+6
+Duration: 484786[ms]
+7
+Duration: 484756[ms]
+8
+Duration: 486440[ms]
+9
+Duration: 492811[ms]
+1000000_1
+0
+Duration: 1615479[ms]
+1
+Duration: 1614791[ms]
+2
+Duration: 1551752[ms]
+3
+Duration: 1552239[ms]
+4
+Duration: 1565020[ms]
+5
+Duration: 1585128[ms]
+6
+Duration: 1616446[ms]
+7
+Duration: 1579425[ms]
+8
+Duration: 1603637[ms]
+9
+Duration: 1610985[ms]
+1000000_1_almost
+0
+Duration: 486449[ms]
+1
+Duration: 486528[ms]
+2
+Duration: 486199[ms]
+3
+Duration: 493676[ms]
+4
+Duration: 494745[ms]
+5
+Duration: 493437[ms]
+6
+Duration: 493862[ms]
+7
+Duration: 487391[ms]
+8
+Duration: 486974[ms]
+9
+Duration: 486987[ms]
+1000000_2
+0
+Duration: 1598328[ms]
+1
+Duration: 1612437[ms]
+2
+Duration: 1581603[ms]
+3
+Duration: 1552467[ms]
+4
+Duration: 1554065[ms]
+5
+Duration: 1554245[ms]
+6
+Duration: 1553002[ms]
+7
+Duration: 1553888[ms]
+8
+Duration: 1563615[ms]
+9
+Duration: 1575691[ms]
+1000000_2_almost
+0
+Duration: 486122[ms]
+1
+Duration: 487217[ms]
+2
+Duration: 492881[ms]
+3
+Duration: 491644[ms]
+4
+Duration: 496458[ms]
+5
+Duration: 495899[ms]
+6
+Duration: 495659[ms]
+7
+Duration: 495924[ms]
+8
+Duration: 498312[ms]
+9
+Duration: 493603[ms]
+1000000_3
+0
+Duration: 1564732[ms]
+1
+Duration: 1603631[ms]
+2
+Duration: 1611843[ms]
+3
+Duration: 1604724[ms]
+4
+Duration: 1552105[ms]
+5
+Duration: 1546839[ms]
+6
+Duration: 1548679[ms]
+7
+Duration: 1552398[ms]
+8
+Duration: 1549817[ms]
+9
+Duration: 1553831[ms]
+1000000_3_almost
+0
+Duration: 475574[ms]
+1
+Duration: 474001[ms]
+2
+Duration: 471934[ms]
+3
+Duration: 473279[ms]
+4
+Duration: 475891[ms]
+5
+Duration: 477039[ms]
+6
+Duration: 471981[ms]
+7
+Duration: 474334[ms]
+8
+Duration: 472127[ms]
+9
+Duration: 475502[ms]
+1000000_4
+0
+Duration: 1550103[ms]
+1
+Duration: 1548535[ms]
+2
+Duration: 1554314[ms]
+3
+Duration: 1552156[ms]
+4
+Duration: 1552784[ms]
+5
+Duration: 1547997[ms]
+6
+Duration: 1548754[ms]
+7
+Duration: 1554583[ms]
+8
+Duration: 1552267[ms]
+9
+Duration: 1552029[ms]
+1000000_4_almost
+0
+Duration: 476650[ms]
+1
+Duration: 475334[ms]
+2
+Duration: 473256[ms]
+3
+Duration: 476184[ms]
+4
+Duration: 476560[ms]
+5
+Duration: 481631[ms]
+6
+Duration: 485399[ms]
+7
+Duration: 476125[ms]
+8
+Duration: 478236[ms]
+9
+Duration: 486477[ms]
