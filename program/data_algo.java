@@ -138,6 +138,7 @@ class Numberread extends Thread {
                                                         } catch (IOException e) {
                                                                 e.printStackTrace();
                                                         }
+                                                        //csvへの出力
                                                 }
                                         }
 
