@@ -139,6 +139,7 @@ class Numberread extends Thread {
                                                                 e.printStackTrace();
                                                         }
                                                         //csvへの出力
+                                                        //データを３次元配列で３種類
                                                 }
                                         }
 
