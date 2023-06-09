@@ -8,7 +8,7 @@ public class BubbleSort {
                                         data[l] = tmp;
                                 }
                         }
-                        System.out.println(k);
+                        //System.out.println(k);
                 }
         }
 }
