@@ -113,6 +113,7 @@ class Numberread extends Thread {
                                                         variance += Math.pow(data[loop], 2);
 
                                                         // ソート時間の記録
+                                                        //テキストファイルに出力
                                                         try {
                                                                 FileWriter fw = new FileWriter(
                                                                                 "sort_result/result_"
@@ -140,7 +141,6 @@ class Numberread extends Thread {
                                                                 e.printStackTrace();
                                                         }
                                                         // csvへの出力
-                                                        // データを３次元配列で３種類
                                                         try {
                                                                 FileWriter fw = new FileWriter(
                                                                                 "sort_result/result_"
