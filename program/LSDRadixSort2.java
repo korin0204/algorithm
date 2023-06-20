@@ -1,15 +1,9 @@
-import java.util.ArrayList;
 public class LSDRadixSort2 {
-    /**
-     * Radix Sort
-     * 
-     * @param array
-     * @return
-     */
     public static int[] RadixSort(int[] array) {
         if (array == null || array.length < 2)
             return array;
-        // 1.配列の最大数を取得し、桁数を取得します。
+        
+        // 配列の最大数を取得し、桁数を取得します
         int max = array[0];
         for (int i = 1; i < array.length; i++) {
             max = Math.max(max, array[i]);
@@ -19,23 +13,34 @@ public class LSDRadixSort2 {
             max /= 10;
             maxDigit++;
         }
+        
         int mod = 10, div = 1;
-        ArrayList<ArrayList<Integer>> bucketList = new ArrayList<ArrayList<Integer>>();
-        for (int i = 0; i < 10; i++)
-            bucketList.add(new ArrayList<Integer>());
+        int[][] bucketList = new int[10][array.length];
+        int[] bucketSize = new int[10];
+        
         for (int i = 0; i < maxDigit; i++, mod *= 10, div *= 10) {
+            // バケットの初期化
+            for (int j = 0; j < 10; j++) {
+                bucketSize[j] = 0;
+            }
+            
+            // 各要素をバケットに振り分け
             for (int j = 0; j < array.length; j++) {
                 int num = (array[j] % mod) / div;
-                bucketList.get(num).add(array[j]);
+                bucketList[num][bucketSize[num]] = array[j];
+                bucketSize[num]++;
             }
+            
+            // バケットから元の配列に戻す
             int index = 0;
-            for (int j = 0; j < bucketList.size(); j++) {
-                for (int k = 0; k < bucketList.get(j).size(); k++)
-                    array[index++] = bucketList.get(j).get(k);
-                bucketList.get(j).clear();
+            for (int j = 0; j < 10; j++) {
+                for (int k = 0; k < bucketSize[j]; k++) {
+                    array[index] = bucketList[j][k];
+                    index++;
+                }
             }
         }
+        
         return array;
     }
-
 }

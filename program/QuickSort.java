@@ -14,7 +14,6 @@ public class QuickSort {
             while (data[r] > x) {
                 r--;
             }
-
             if (l <= r) {
                 tmp = data[l];
                 data[l] = data[r];
@@ -22,7 +21,6 @@ public class QuickSort {
 
                 l++; r--;
             }
-
         }
         quickSort(data, left, r);
         quickSort(data, l, right);
